@@ -1,0 +1,6 @@
+.env
+*.session
+__pycache__/
+tg_poll.log
+admin.db
+*.pyc
